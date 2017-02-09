@@ -1,1 +1,1 @@
-(some inserted text) Now we have some text in here.
+(Some inserted text) Now we have some text in here.
